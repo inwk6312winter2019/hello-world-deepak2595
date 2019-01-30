@@ -1,1 +1,3 @@
-print("My First Git Upload")
+def raghu():
+  print("My First Git Upload")
+raghu()
